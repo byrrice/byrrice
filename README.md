@@ -1,6 +1,6 @@
-# I'm Isaac
+# I'm Isaac 🌊
 
-### ya hate to see it
+### ya hate to see it ¯\_(ツ)_/¯
 
 ![](https://komarev.com/ghpvc/?username=byrrice&color=deb887)
 
