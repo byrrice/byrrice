@@ -1,4 +1,6 @@
-### ya hate to see it 
+### I'm Isaac
+
+## My Motto: Ya hate to see it
 
 <img src="https://raw.githubusercontent.com/byrrice/byrrice/main/charmander.gif" alt="Chasing">
 
