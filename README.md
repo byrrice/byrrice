@@ -1,6 +1,6 @@
 ### ya hate to see it 
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/charmander.gif" alt="Chasing">
+<img src="https://raw.githubusercontent.com/byrrice/byrrice/main/charmander.gif" alt="Chasing">
 
 <!--
 **byrrice/byrrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
