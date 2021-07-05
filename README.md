@@ -1,6 +1,6 @@
 # I'm Isaac
 
-### Quote: ya hate to see it
+### ya hate to see it
 
 <img src="https://raw.githubusercontent.com/byrrice/byrrice/main/charmander.gif" alt="Chasing">
 
