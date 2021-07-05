@@ -2,6 +2,8 @@
 
 ### ya hate to see it
 
+![](https://komarev.com/ghpvc/?username=byrrice&color=deb887)
+
 <img src="https://raw.githubusercontent.com/byrrice/byrrice/main/charmander.gif" alt="Chasing">
 
 <!--
