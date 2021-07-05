@@ -1,6 +1,6 @@
 # I'm Isaac 🌊
 
-### ya hate to see it ¯\_(ツ)_/¯
+### My motto is "ya hate to see it". ¯\_(ツ)_/¯
 
 ![](https://komarev.com/ghpvc/?username=byrrice&color=deb887)
 
