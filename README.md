@@ -1,4 +1,4 @@
-# I'm Isaac ¯`\​`_(ツ)_/¯
+# I'm Isaac ¯\\_(ツ)_//¯
 
 ![](https://komarev.com/ghpvc/?username=byrrice&color=deb887)
 
