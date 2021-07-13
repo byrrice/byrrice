@@ -1,7 +1,5 @@
 # I'm Isaac ¯\\ _ (ツ) _ /¯
 
-![](https://komarev.com/ghpvc/?username=byrrice&color=deb887)
-
 <img src="https://raw.githubusercontent.com/byrrice/byrrice/main/charmander.gif" alt="Chasing">
 
 <!--
